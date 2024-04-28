@@ -28,6 +28,9 @@ deb包在ubuntu下怪怪的，看不了新番，应该是hevc解码问题，而s
 压感支持就是屎，p图还好
 
 ## 游戏
+### osu
+音游害人。\\
+lazer在linux只能opengl，不过对数位板支持比windows更好
 ### xmcl
 比hmcl做得好，模块化，更符合linux美学
 ### hmcl
