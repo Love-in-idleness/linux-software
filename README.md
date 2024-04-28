@@ -1,7 +1,9 @@
 # linux-software
 个人用的linux软件清单，本人系统环境ubuntu24.04
+
 ## 星火软件商店
-少了这个，就是少了大半了
+少了这个，少了大半
+
 ## 音乐
 ### 网易云音乐
 听小众音乐，看乐子评论
@@ -37,13 +39,19 @@ lazer在linux只能opengl，不过对数位板支持比windows更好
 ### hmcl
 传统且经典的mc启动器
 ### steam
-坑钱
+坑钱  
+proton是个好项目，记得配合网站protondb
 ### ge-proton
 配合steam,解决一些视频播放问题
 ### onscripter-jh
 上古游戏Gal
 ### yuzu
 ns模拟器，个人用的是改版
+### ryujinx
+众所周知的原因，yuzu开发者寄了（但不影响我玩gal  
+现在只剩龙神了，然而不如柚子，且没中文
+### ppsspp
+ps与psp模拟器，然而我不玩
 ### gnome-mines
 扫！（大嘘
 ### chaldea
@@ -107,10 +115,16 @@ Java,慢，功能少，但是美观，够用，长得像ms
 todo的linux第三方客户端
 ### pot
 翻译用的，ui挺好
+### 欧路词典
+然而没钱冲会员
+### GoldenDict
+不会用啊
 ### peazip
 极为强大，然而深色模式呢？
 ### LocalSend
 局域网文件互传
+### Remmina
+我连rdp常常卡死，无语了
 
 ## 系统
 ### gpart
@@ -152,6 +166,26 @@ r.i.p.
 单单用来应付上课那些，效果比matlab好  
 这个和上面那个该算是编程吧（笑
 
+## 美化
+### fantacy
+动态壁纸，然而动态视频哪里来呢？
+### wallpaper-engine
+啊？你说用不了？拜托，我下个视频而已   
+其实也可以不安装，用steamcmd就可以了
 
-
-
+## 环境
+### wine
+红酒（确信  
+相关：playonlinux,wine运行器，deepin-wine  
+话说前面的proton是不是该放在这里？
+### waydroid
+建议用waydroid运行器，内置arm应用支持
+### xdroid
+严重违反开源协议，但却真的好用  
+对内核影响太大，删了
+### docker
+神
+### ace
+兼容环境，linux to linux  
+然而有snap,bwrap,flatpak,我要这个做什么？    
+这个是给deepin和uos用户的吧
