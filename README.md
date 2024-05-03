@@ -1,8 +1,11 @@
 # linux-software
 个人用的linux软件清单，本人系统环境ubuntu24.04
 
-## 星火软件商店
-少了这个，少了大半
+## 商店
+### 星火软件商店
+少了这个，少了大半（针对国内）
+### Flathub
+一句话，比snap强，下面的很多软件（国外）可以从这里安装
 
 ## 音乐
 ### 网易云音乐
@@ -11,8 +14,12 @@
 无语，没钱听歌。大众有spotify,小众wyy免费，要你何用？
 ### YesPlayMusic
 wyy的第三方，光听歌的话比wyy好
+### 洛雪音乐助手
+但是好像似了（用不了呢
 ### Spotify
 之前用deb,但是apt国内常常报错，就干脆snap算了
+### Spotube
+spotify开源替代，但是效果很差，常常找错音源
 ### Moosync
 本地播放器的神
 
@@ -21,8 +28,13 @@ wyy的第三方，光听歌的话比wyy好
 deb包在ubuntu下怪怪的，看不了新番，应该是hevc解码问题，而snap包托盘中文乱码，个人也不喜欢snap
 ### vlc
 我心中的第一了
+### mpv
+不如vlc
 ### bilibili
-没有变质吗？
+没有变质吗？（大雾
+### OBS
+想了想还是放在这里咯，主要是录屏会用一下     
+什么？皮套人直播？但目前没找到好的变声呢……
 
 ## 图像
 ### krita
@@ -39,12 +51,20 @@ lazer在linux只能opengl，不过对数位板支持比windows更好
 ### hmcl
 传统且经典的mc启动器
 ### steam
-坑钱  
-proton是个好项目，记得配合网站protondb
-### ge-proton
-配合steam,解决一些视频播放问题
+坑钱，但提供了游戏兼容环境
+### lutris
+不了解呢
 ### onscripter-jh
-上古游戏Gal
+只剩上古Galgame了……
+但也有人做移植？
+### onsyuri
+相较前一个，字体怪怪的，但不用自己折腾依赖问题      
+支持自由拉伸，但一般都直接全屏吧……
+### krkrsdl2
+原理上支持部分krkr游戏，但我没见过可行的
+### renpy
+或许也能算是编程（笑     
+全平台是好文明
 ### yuzu
 ns模拟器，个人用的是改版
 ### ryujinx
@@ -145,10 +165,10 @@ Appimage to deb
 ## 编程
 ### vim
 r.i.p.
+### gedit
+相较前一个，算是多了图形化界面吧
 ### vscode
 是的，我是史
-### renpy
-或许能算是游戏（笑
 
 ## 数学
 ### Desmos
@@ -175,17 +195,51 @@ r.i.p.
 
 ## 环境
 ### wine
-红酒（确信  
-相关：playonlinux,wine运行器，deepin-wine  
-话说前面的proton是不是该放在这里？
+红酒（确信    
+配合wine运行器好一点
+### playonlinux
+记得从这里入坑wine的……    
+现在我不用了
+### crossover
+商业付费的windows软件兼容环境
+### deepin-wine
+怎么说呢？比原版wine好   
+是谁魔改的？好难猜啊（
+### proton
+steam对wine一番魔改后的产物   
+有1说1,现在linux也就少一些游戏而已，其他应用都是可代替的   
+所以说一般使用linux都用不上wine
+### ge-proton
+proton再经过一番魔改得到的    
+还是在steam上使用,能解决一些游戏内视频无法播放的问题
 ### waydroid
-建议用waydroid运行器，内置arm应用支持
+是安卓环境呢     
+~~建议用waydroid运行器，内置arm应用支持~~    
+好吧，waydroid运行器现在用不了了，避雷
 ### xdroid
 严重违反开源协议，但却真的好用  
-对内核影响太大，删了
+但是对内核影响太大，删了
+### anbox
+年久失修，安卓版本太老了
+### uengine
+貌似版本比anbox高一点？   
+过去太久了，之前用deepin时候用过    
+ubuntu上用不了呢（它依赖版本过低，我自己不放心所以没安
 ### docker
 神
+### snap
+沙，阻断接口
+### bwrap
+沙，模拟系统
+### flatpakFlathub
+沙，提供环境
 ### ace
 兼容环境，linux to linux  
 然而有snap,bwrap,flatpak,我要这个做什么？    
 这个是给deepin和uos用户的吧
+### lustorpeda
+怪怪的诶，这也算启动环境？
+### vmware
+哈哈哈
+### virtuaibox
+我选择这个，支持开源嘛
