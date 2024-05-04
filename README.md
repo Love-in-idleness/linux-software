@@ -6,6 +6,8 @@
 少了这个，少了大半（针对国内）
 ### Flathub
 一句话，比snap强，下面的很多软件（国外）可以从这里安装
+### Snapstore
+垃圾，已经删了
 
 ## 音乐
 ### 网易云音乐
@@ -161,6 +163,13 @@ grub在图形化界面进行更改
 拯救你的依赖
 ### a2d
 Appimage to deb
+### fwupdmgr
+更新固件
+### kde
+你需要两个桌面，避免玩死自己（
+### gnome
+自带的呢，但是更喜欢这种简洁的
+### 
 
 ## 编程
 ### vim
@@ -227,12 +236,17 @@ proton再经过一番魔改得到的
 ubuntu上用不了呢（它依赖版本过低，我自己不放心所以没安
 ### docker
 神
-### snap
-沙，阻断接口
+### snapd
+沙，阻断接口    
+但是是屎，已经删了
 ### bwrap
-沙，模拟系统
-### flatpakFlathub
-沙，提供环境
+沙盒，模拟系统    
+为了避免污染系统用的（说的就是你，微信
+### flatpak
+沙，提供环境     
+但是感觉不如appimage
+### appimage
+不喜欢这个方式，用a2d转deb了
 ### ace
 兼容环境，linux to linux  
 然而有snap,bwrap,flatpak,我要这个做什么？    
