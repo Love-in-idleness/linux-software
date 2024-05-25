@@ -224,7 +224,9 @@ proton再经过一番魔改得到的
 ### waydroid
 是安卓环境呢     
 ~~建议用waydroid运行器，内置arm应用支持~~    
-好吧，waydroid运行器现在用不了了，避雷
+好吧，waydroid运行器现在用不了了，避雷    
+想轻松配置waydroid还是得看官方文档……   
+另见https://www.bilibili.com/read/cv21731719/  
 ### xdroid
 严重违反开源协议，但却真的好用  
 但是对内核影响太大，删了
