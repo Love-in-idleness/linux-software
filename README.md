@@ -19,7 +19,8 @@ wyy的第三方，光听歌的话比wyy好
 ### 洛雪音乐助手
 但是好像似了（用不了呢
 ### Spotify
-之前用deb,但是apt国内常常报错，就干脆snap算了
+之前用deb,但是apt国内常常报错，就干脆snap算了   
+现在转回deb了
 ### Spotube
 spotify开源替代，但是效果很差，常常找错音源
 ### Moosync
