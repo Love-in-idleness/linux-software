@@ -28,7 +28,8 @@ spotify开源替代，但是效果很差，常常找错音源
 
 ## 视频
 ### 次元城动漫
-deb包在ubuntu下怪怪的，看不了新番，应该是hevc解码问题，而snap包托盘中文乱码，个人也不喜欢snap
+deb包在ubuntu下怪怪的，看不了新番，应该是hevc解码问题，而snap包托盘中文乱码，个人也不喜欢snap  
+直接在网页看了，mutefun真好
 ### vlc
 我心中的第一了
 ### mpv
@@ -47,12 +48,16 @@ deb包在ubuntu下怪怪的，看不了新番，应该是hevc解码问题，而s
 
 ## 游戏
 ### osu
-音游害人。  
-lazer在linux只能opengl，不过对数位板支持比windows更好
+音游害人  
+lazer在linux只能opengl，不过对数位板支持比windows更好   
+貌似是我huion问题？舍友wacom在windows下也正常  
+不过看到舍友的lazer在windows上天天报错，想笑
 ### xmcl
-比hmcl做得好，模块化，更符合linux美学
+设计上比hmcl做得好，模块化，更符合linux美学   
+然而这个下载……
 ### hmcl
-传统且经典的mc启动器
+传统且经典的mc启动器   
+个人常用
 ### steam
 坑钱，但提供了游戏兼容环境
 ### lutris
@@ -78,7 +83,8 @@ ps与psp模拟器，然而我不玩
 ### gnome-mines
 扫！（大嘘
 ### chaldea
-是的，我是月批
+是的，我是月批  
+支持linux我真没想到
 
 ## 办公
 ### LibreOffice
