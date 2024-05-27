@@ -227,9 +227,14 @@ proton再经过一番魔改得到的
 好吧，waydroid运行器现在用不了了，避雷    
 想轻松配置waydroid还是得看官方文档……   
 另见https://www.bilibili.com/read/cv21731719/  
+但是bug太多了……我连fgo都玩不了，就删了
 ### xdroid
 严重违反开源协议，但却真的好用  
-但是对内核影响太大，删了
+但是对内核影响太大，删了  
+### genymotion  
+之前在Windows上就用过  
+技术完善，但是虚拟机方案，不过还是挺快的
+个人觉得唯一缺点是没中文
 ### anbox
 年久失修，安卓版本太老了
 ### uengine
