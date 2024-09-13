@@ -1,0 +1,15 @@
+wine9开启了对wayland的实验性支持，启用步骤：
+
+1. 创立文件"w.reg"，内容如下：
+
+Windows Registry Editor Version 5.00
+[HKEY_CURRENT_USER\Software\Wine\Drivers]
+"Graphics"="x11,wayland"
+
+2. $ wine regedit
+导入注册表文件
+
+3. 设置环境变量 "/etc/environment.d/wine.conf" 内容如下：
+
+DISPLAY= wine ...
+
