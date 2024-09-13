@@ -1,0 +1,3 @@
+查看使用xwayland的应用
+$ xlsclients
+# 参考https://docs.fedoraproject.org/zh_CN/quick-docs/troubleshooting-wayland-problems/
