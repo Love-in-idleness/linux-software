@@ -1,0 +1,2 @@
+$ xlsclients
+# https://docs.fedoraproject.org/zh_CN/quick-docs/troubleshooting-wayland-problems/
