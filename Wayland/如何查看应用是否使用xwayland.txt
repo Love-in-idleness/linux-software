@@ -1,1 +1,2 @@
-All/如何查看应用是否使用xwayland.txt
+$ xlsclients
+# https://docs.fedoraproject.org/zh_CN/quick-docs/troubleshooting-wayland-problems/
